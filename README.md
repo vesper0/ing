@@ -11,7 +11,7 @@
 ![flow](./images/schedule.png)
 
 ## high level design
-![flow](./images/highleveldesign.png)
+![flow](./images/high_level_design.png)
 
 ## Members
 |Name|Role|
