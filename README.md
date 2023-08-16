@@ -9,6 +9,10 @@
 
 ## Work breakdown sheet​
 ![flow](./images/schedule.png)
+
+## high level design
+![flow](./images/high level design.png)
+
 ## Members
 |Name|Role|
 |-|-|
